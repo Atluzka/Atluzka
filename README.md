@@ -1,3 +1,3 @@
 <h1 align="center">Atluzka</h1>
 
-**Welcome to my Github profile**
+<h3 align="center">Welcome to my Github profile</h3>
