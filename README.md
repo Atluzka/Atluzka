@@ -4,7 +4,7 @@
 <p align="center">contact: Atlaz#8789</p>
 
 <center>
-<a align="center" href="https://visitcount.itsvg.in">
+<a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Atluzka&icon=3&color=12&pretty=true" />
 </a>
 </center>
