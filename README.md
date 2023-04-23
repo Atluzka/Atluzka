@@ -1,4 +1,4 @@
 <h1 align="center">Atluzka</h1>
 <h3 align="center">Welcome to my Github profile</h3>
-<p align="center">I'm a beginner developer and I'm most proficient at Python, but i've used other languages as well such as C++, Lua & JavaScript</p>
+<p align="center">"If you have to introduce yourself then understand that success is still far away." ~ Invajy</p>
 <p align="center">contact: Atlaz#8789</p>
