@@ -1,7 +1,7 @@
 <h1 align="center">Atluzka</h1>
 <h3 align="center">Welcome to my Github profile</h3>
 <p align="center">"If you have to introduce yourself then understand that success is still far away." ~ Invajy</p>
-<p align="center">contact: Atlaz#8789</p>
+<p align="center">discord: @atluzka</p>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
